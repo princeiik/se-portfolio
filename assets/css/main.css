@@ -1580,6 +1580,11 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
+	
+	.icon-fixed-size {
+		width: 100px;
+		height: 100px;
+	}
 
 /* Button */
 
