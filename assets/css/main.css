@@ -1437,6 +1437,14 @@ input, select, textarea {
 		margin-bottom: 2em;
 	}
 
+	.mainfont {
+		font-family: 'Quicksand', sans-serif;
+	}
+	
+	.subfont {
+		font-family: 'Manrope', sans-serif;
+	}
+
 /* Table */
 
 	table {
@@ -1582,8 +1590,8 @@ input, select, textarea {
 			}
 	
 	.icon-fixed-size {
-		width: 100px;
-		height: 100px;
+		width: 90px;
+		height: 90px;
 	}
 
 /* Button */
